@@ -1,2 +1,2 @@
-print("hello ")
-1235
+print("hello; ")
+1235;
